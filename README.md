@@ -1,3 +1,6 @@
+
+
+
 # AltServer macOS 27 Anisette Fix
 
 [English](README.md) | [한국어](README.ko.md)
@@ -29,11 +32,19 @@ This project was tested on macOS 27.0 build `26A5353q`.
 
 ## Installation
 
-1. Download `AltServer-macOS27-Anisette-Fix-v1.0.2.zip` from
-   [Releases](https://github.com/kimziro/altserver-macos27-anisette-fix/releases).
-2. Extract the archive.
-3. Right-click `Install.command` and choose **Open**.
-4. Open AltStore on the iPhone and refresh your apps.
+# AltServer macOS 27 Anisette Fix (Pre-Compiled)
+
+This repository is based on the original fix by **kimziro**. It resolves the `machineID` Anisette crash (`Error: Zeile 138`) when trying to install AltStore on macOS 27 and iOS 27 betas.
+
+To save you the hassle of compiling the source code yourself, I have already injected the fix into **AltServer 1.7.6 (Build 94)**. The 3 pre-built files / the patched `.zip` are included in this repo.
+
+## Quick Install
+
+1. Download and extract the provided pre-built zip file.
+2. Drag and drop the patched `AltServer.app` into your **Applications** (`/Applications`) folder.
+3. Open **Terminal** and remove the quarantine flag to prevent macOS from blocking the modified app:
+   ```bash
+   xattr -cr /Applications/AltServer.app
 
 ### If macOS Blocks `Install.command`
 
