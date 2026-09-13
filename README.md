@@ -1,4 +1,10 @@
+## Quick Install
 
+1. Download and extract the provided pre-built zip file. https://github.com/kimziro/altserver-macos27-anisette-fix/pull/7/commits/3ff2607e52ca85c0cfd08ed64a9a83b7079415ad#diff-b549babf6ed02d8364d1a52e8ecc3bdbf31101a54a5239a29b81988b1dfeca8a
+3. Drag and drop the patched `AltServer.app` into your **Applications** (`/Applications`) folder.
+4. Open **Terminal** and remove the quarantine flag to prevent macOS from blocking the modified app:
+   ```bash
+   xattr -cr /Applications/AltServer.app
 
 
 # AltServer macOS 27 Anisette Fix
@@ -38,13 +44,6 @@ This repository is based on the original fix by **kimziro**. It resolves the `ma
 
 To save you the hassle of compiling the source code yourself, I have already injected the fix into **AltServer 1.7.6 (Build 94)**. The 3 pre-built files / the patched `.zip` are included in this repo.
 
-## Quick Install
-
-1. Download and extract the provided pre-built zip file.
-2. Drag and drop the patched `AltServer.app` into your **Applications** (`/Applications`) folder.
-3. Open **Terminal** and remove the quarantine flag to prevent macOS from blocking the modified app:
-   ```bash
-   xattr -cr /Applications/AltServer.app
 
 ### If macOS Blocks `Install.command`
 
