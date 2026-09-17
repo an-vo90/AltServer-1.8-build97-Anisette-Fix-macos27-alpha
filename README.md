@@ -11,7 +11,8 @@ Altserver 1.8 build (97) Anisette fix (source line 118 fix)
    
 5. Update the Altstore when connected to USB Cable, start altserver, click on icon and install altstore on your iphone, verify on phone. So you get the Altstore 2.3
 
-
-
+<br>
+<br>
+<br>
 Counter:
 ![Downloads](https://img.shields.io/github/downloads/an-vo90/AltServer-1.8-build97-Anisette-Fix-macos27-alpha/total?style=for-the-badge)
