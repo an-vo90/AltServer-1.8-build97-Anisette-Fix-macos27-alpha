@@ -9,3 +9,7 @@ Altserver 1.8 build (97) Anisette fix (source line 118 fix)
    xattr -cr /Applications/AltServer.app
    
 5. Update the Altstore when connected to USB Cable, start altserver, click on icon and install altstore on your iphone, verify on phone. So you get the Altstore 2.3
+
+
+
+![Downloads](https://img.shields.io/github/downloads/an-vo90/latest-AltServer-1.8-patch-macos27-alpha-AnisetteDataManager.swift-SourceLine-118-Error/total?style=for-the-badge)
