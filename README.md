@@ -13,6 +13,6 @@ Altserver 1.8 build (97) Anisette fix (source line 118 fix)
 
 <br>
 <br>
-<br>
+
 Counter:
 ![Downloads](https://img.shields.io/github/downloads/an-vo90/AltServer-1.8-build97-Anisette-Fix-macos27-alpha/total?style=for-the-badge)
