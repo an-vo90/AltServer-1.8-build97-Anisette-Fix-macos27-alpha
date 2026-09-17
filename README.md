@@ -1,3 +1,5 @@
+>>Altserver 1.8.1 out now with fix, try the official<<
+
 Altserver 1.8 build (97) Anisette fix (source line 118 fix)
 
 ## Quick Install
