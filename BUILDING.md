@@ -3,7 +3,7 @@
 Requirements:
 
 - macOS 27 Command Line Tools
-- Original AltServer 1.7.2 application
+- Original AltServer 1.8 application
 - Apple Silicon Mac
 
 Build:
