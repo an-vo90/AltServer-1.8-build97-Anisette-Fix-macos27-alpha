@@ -12,4 +12,4 @@ Altserver 1.8 build (97) Anisette fix (source line 118 fix)
 
 
 
-![Downloads](https://img.shields.io/github/downloads/an-vo90/latest-AltServer-1.8-patch-macos27-alpha-AnisetteDataManager.swift-SourceLine-118-Error/total?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/an-vo90/AltServer-1.8-build97-Anisette-Fix-macos27-alpha/total?style=for-the-badge)
