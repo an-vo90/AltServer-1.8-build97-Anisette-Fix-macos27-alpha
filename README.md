@@ -3,7 +3,7 @@ Altserver 1.8 build (97) Anisette fix (source line 118 fix)
 ## Quick Install
 
 1. Download and extract the provided pre-built zip file:
-   https://github.com/an-vo90/AltServer-1.8-build97-Anisette-Fix-macos27-alpha/releases/download/Machine-ID-Error/AltServer-1.8-.97.-macOS27-patch-v3.1.zip
+    https://github.com/an-vo90/AltServer-1.8-build97-Anisette-Fix-macos27-alpha/releases/download/Machine-ID-Error/AltServer-1.8-.97.-macOS27-patch-v3.1.zip
 3. Drag and drop the patched `AltServer.app` into your **Applications** (`/Applications`) folder.
 4. Open **Terminal** and remove the quarantine flag to prevent macOS from blocking the modified app:
    ```bash
